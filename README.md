@@ -1,6 +1,6 @@
 # docs.ruby-lang.org/ja/ の生成方法を変えた
 
-TODO: スライドの説明
+[【大阪オフライン開催】RubyKaigi 2024 KaigiEffect発表会](https://kyobashirb.connpass.com/event/320687/) の発表資料です。
 
 ## 作者向け
 
