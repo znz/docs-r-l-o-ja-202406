@@ -4,13 +4,13 @@ author
 :   Kazuhiro NISHIYAMA
 
 content-source
-:   【大阪オフライン開催】RubyKaigi 2024 KaigiEffect発表会
+:   第23回 岡山Ruby, Ruby on Rails勉強会
 
 date
-:   2024-06-13
+:   2024-07-27
 
 allotted-time
-:   15m
+:   10m
 
 theme
 :   lightning-simple
@@ -18,6 +18,7 @@ theme
 # self.introduction
 
 - 西山 和広
+- 岡山出身、大阪在住
 - Ruby のコミッター
 - github など: `@znz`
 - 株式会社Ruby開発 www.ruby-dev.jp
@@ -139,3 +140,5 @@ theme
 
 - (済) rurema-search で master が 3.4 のようにバージョンで出てきてリンク切れになる問題の対策
 - <https://docs.ruby-lang.org/ja/> と <https://docs.ruby-lang.org/en/> のサポート終了バージョンの更新
+- (NEW)(済) https://docs.ruby-lang.org/capi/en/master/ の追加
+  - 更新時に fastly のキャッシュのパージがまだ
